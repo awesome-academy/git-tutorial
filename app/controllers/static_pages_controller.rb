@@ -5,11 +5,13 @@ class StaticPagesController < ApplicationController
       @feed_items = current_user.feed.paginate page: params[:page]
     end
   end
-
+  def hello
+    puts "Hello world"
+  end
   def help
   end
   def hello
-  	puts "hello world"
-  	
+  	puts "hello world" 	
   end
+  toi la phong
 end
