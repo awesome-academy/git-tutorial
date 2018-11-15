@@ -10,6 +10,8 @@ class StaticPagesController < ApplicationController
   end
 
   def hello
-      puts "Hello World"
-  end	
+  	puts "hello world"
+  	
+  end
+
 end
