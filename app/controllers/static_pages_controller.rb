@@ -18,7 +18,14 @@ class StaticPagesController < ApplicationController
 
 
     def hello
-      puts "Hay xem la giac mo"
+      puts "Hay xem la giac mo "
+      puts "aaabbb"
+      puts "a111111111111111111111aabbb"
+
+      def say_hello
+        puts "ahihi"
+      end
+
     end
   end
 end
