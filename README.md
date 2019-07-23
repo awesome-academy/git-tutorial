@@ -24,7 +24,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 Change README to practice git
 ready to change
 ready to change
 ready to change
+=======
+
+hello world
+first change
+
