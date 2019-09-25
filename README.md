@@ -33,16 +33,16 @@ first change
 second change
 huy change
 chinh tho
-HEAD
+
 lalala
 em la bong hong nho
-HEAD
- thay doi 1
+
+thay doi 1
 
 hello everybody
 thay doi 1
- thay doi 1
- HEAD
+thay doi 1
+
 
 
 hihi
@@ -66,7 +66,7 @@ huy change
 chinh tho
 lalala
 em la bong hong nho
- thay doi 1
+thay doi 1
 
 
 
@@ -75,5 +75,5 @@ hihi
 
 anh nha o dau the
 thay doi de
- thay doi de
->>>>>>> thay doi de
+thay doi de
+thay doi de
