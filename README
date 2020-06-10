@@ -1,4 +1,3 @@
-Test push origin new_branch
-commit 1
+Text: "git practice"
 
-commit 2
+List: "Test git"
