@@ -7,7 +7,7 @@ class AccountActivationsController < ApplicationController
       flash[:success] = "Tai khoan da duoc kich hoat!"
       redirect_to user
     else
-      flash[:danger] = "Tai khoan khong hop le"
+      flash[:danger] = "Tai khoan khong hop le!!!!"
       redirect_to root_url
     end
   end
